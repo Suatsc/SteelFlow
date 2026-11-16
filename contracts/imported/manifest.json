@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "files": {
+    "/home/user/app/contracts/imported/0x3600000000000000000000000000000000000000/contracts/v1/FiatTokenProxy.sol": {
+      "sha256": "73d8c4146e057604868713c8acd4e19bec97d0b7cc1cedba423b075c66809be5",
+      "address": "0x3600000000000000000000000000000000000000",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:29.569Z"
+    },
+    "/home/user/app/contracts/imported/0x3600000000000000000000000000000000000000/@openzeppelin/contracts/utils/Address.sol": {
+      "sha256": "11ad5e3e21434e00c4ceba1f5a977b7a68bdd7d16b849276ce4ff4495129eec7",
+      "address": "0x3600000000000000000000000000000000000000",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:29.569Z"
+    },
+    "/home/user/app/contracts/imported/0x3600000000000000000000000000000000000000/contracts/upgradeability/AdminUpgradeabilityProxy.sol": {
+      "sha256": "d6dc1555e31406e06a5953ea7eab6e688d2ead1ebb5b9a344d55354123c36bc4",
+      "address": "0x3600000000000000000000000000000000000000",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:29.569Z"
+    },
+    "/home/user/app/contracts/imported/0x3600000000000000000000000000000000000000/contracts/upgradeability/Proxy.sol": {
+      "sha256": "d632b4eee21c950d0a39e7727baf3586a1c681f576267c34c72bd7b9d4c353bf",
+      "address": "0x3600000000000000000000000000000000000000",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:29.569Z"
+    },
+    "/home/user/app/contracts/imported/0x3600000000000000000000000000000000000000/contracts/upgradeability/UpgradeabilityProxy.sol": {
+      "sha256": "51f3c781cbe1c6556a0c4b795046f5cd12e69b465631f6e85f239f0bf7443036",
+      "address": "0x3600000000000000000000000000000000000000",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:29.569Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v2/NativeFiatTokenV2_2.sol": {
+      "sha256": "8a79d93460faae7377578b3dd92e9980b3e2e04b21a01cbe37a6d0a96ffd3c6e",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/interface/IERC1271.sol": {
+      "sha256": "90706e1c5c0164828819bc991154da862569b6040d1a4836538b0fff44dc1c3e",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/interface/NativeFiatToken/INativeCoinAuthority.sol": {
+      "sha256": "7905c49bba19e201360cd734f093673acb7862c51abbc25a296b952af89c4654",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/interface/NativeFiatToken/INativeCoinControl.sol": {
+      "sha256": "4f265e08b3c19f7c894ce5e5041680e2e2967f0e9d941bdf33c60612e9b41ce8",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/util/ECRecover.sol": {
+      "sha256": "7757042c1411869fef5d590a624afb29fbe205dfe2f56dcc22c8db4dd7f635dc",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/util/EIP712.sol": {
+      "sha256": "1fb1f03d1631f442e2ba005fe5289f00b93be7cc49022078069969273dfc4def",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/util/MessageHashUtils.sol": {
+      "sha256": "c515584f13890da8fd49c4a8d364f11c7dd82c3321df1563064d947ad8374b2b",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/util/SignatureChecker.sol": {
+      "sha256": "908c403abbf2ddeaad3005e8a80f75d96abfa546a59f53ee97c18b80fe336afe",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v1.1/FiatTokenV1_1.sol": {
+      "sha256": "f69c5a0b774b213eaead9641a2d5a40d6bb459207a3b2b8cf580bc2622a50ffc",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v1.1/Rescuable.sol": {
+      "sha256": "dcbfd372225bef5d8b4e76cea28bf172260a0eb85eeda666b0447e37123e100c",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v1/AbstractFiatTokenV1.sol": {
+      "sha256": "b24c578f4d3994cf734986b43e973c825ca553ceb084adf957bb86c4b9767dbc",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v1/Blacklistable.sol": {
+      "sha256": "c788c40515a7255735bae06bebe0025af70a3713097bcc10293bd263f098ba90",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v1/FiatTokenV1.sol": {
+      "sha256": "423a0c805f7bfff28c89432f671a38d19717fb4b6c3e5591fa46d5d4b04f2c21",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v1/Ownable.sol": {
+      "sha256": "75f378c6a232f5cc85f2a46b5b2296c14bcbdf864114c3fee3996102e93aa946",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v1/Pausable.sol": {
+      "sha256": "3aac2a3b16249fdfe82357649fb5ad2bd5887cb521b59f0833851457a8e845b8",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v2/AbstractFiatTokenV2.sol": {
+      "sha256": "c59e30154c8747ffc496707ca8b81ec8d0c1b3496ea9155d9baa9243ed48c6c0",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v2/EIP2612.sol": {
+      "sha256": "eb2460cf7b348afc3e922757b31c85a92cca03871579cabbf62941cd6e4b8304",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v2/EIP3009.sol": {
+      "sha256": "2da3daad1073a9fd5984522fa635c7a175e6acf07631f4ab0fb787c54595ce55",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v2/EIP712Domain.sol": {
+      "sha256": "15a9941af7b307e0755ce3f37bbb7c4f0b204b9496005fd45ec9705f44c1b9c1",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v2/FiatTokenV2.sol": {
+      "sha256": "e50ea04584155d83d326b4dcdfe9668fc29d4d351f0f9ba87bd49897bede8af8",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v2/FiatTokenV2_1.sol": {
+      "sha256": "ec3a38d994c9880e318cfa5543f0b7847f77e197d67e7164c9a0313006e8b1eb",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/contracts/v2/FiatTokenV2_2.sol": {
+      "sha256": "d1f045f392042e4e8ac04d4c53a8e6d2f599085025a6ff979252bc9783b3fc3a",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/node_modules/@openzeppelin/contracts/math/SafeMath.sol": {
+      "sha256": "4a04d0a20a19e3ef1dcabae9cad9ba006430a4e7eec4d9b519db87999722c98a",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
+      "sha256": "0573c2961569aa4906845d0cd428b5b7394956170054ceeaa8f8af96cd44875c",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/node_modules/@openzeppelin/contracts/token/ERC20/SafeERC20.sol": {
+      "sha256": "eea796f96939e7dd6119de00941717ce5772d8a942b184f5e48d2b962d0ab655",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    },
+    "/home/user/app/contracts/imported/0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6/node_modules/@openzeppelin/contracts/utils/Address.sol": {
+      "sha256": "11ad5e3e21434e00c4ceba1f5a977b7a68bdd7d16b849276ce4ff4495129eec7",
+      "address": "0xc6ad664ac6679f4ce74e10e91449c93ec1ae3ca6",
+      "chain": "Arc_Testnet",
+      "fetchedAt": "2026-10-12T14:47:44.992Z"
+    }
+  }
+}
